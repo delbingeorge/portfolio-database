@@ -9,18 +9,18 @@
         "problem-statement": "Users often struggle to discover new and appealing dining options in their local area, and the lack of reliable, location-based reviews makes it difficult to make informed decisions about where to eat.",
         "problem-solution": "Eatables, a location-based food discovery and review app, offers a solution by providing users with personalized restaurant recommendations, detailed information about nearby eateries, and authentic user reviews. By leveraging location data and user-generated content, Eatables empowers users to confidently explore new food establishments and make informed dining choices, enhancing their overall culinary experiences.",
         "objectives-goals": "The goal of Eatables is to revolutionize the way people discover and explore food options by providing a user- friendly platform that offers personalized restaurant recommendations and many other features such as review posting, creating a must try list etc.",
-        "business-challenges": {
-            "one": "Competition and Market Saturation",
-            "two": "Diverse Cuisine and Preferences",
-            "three": "Localized Content",
-            "four": "Feedback Handling",
-            "five": "Restaurant Onboarding",
-            "six": "Monetization Strategy",
-            "seven": "",
-            "eight": "",
-            "nine": "",
-            "ten": ""
-        },
+        "business-challenges": [
+            "Competition and Market Saturation",
+            "Diverse Cuisine and Preferences",
+            "Localized Content",
+            "Feedback Handling",
+            "Restaurant Onboarding",
+            "Monetization Strategy",
+            "",
+            "",
+            "",
+            ""
+        ],
         "competitor-analysis": {
             "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
             "competitor-analysis-image": ""
@@ -73,6 +73,158 @@
             "hifi-screen-four": ""
         },
         "conculsion": "",
+        "figma-prototype": ""
+    },
+    {
+        "article-id": 14,
+        "description": "",
+        "category": "",
+        "title": "",
+        "introduction": "",
+        "my-role": "",
+        "problem-statement": "",
+        "problem-solution": "",
+        "objectives-goals": "",
+        "business-challenges": {
+            "one": "",
+            "two": "",
+            "three": "",
+            "four": "",
+            "five": "",
+            "six": "",
+            "seven": "",
+            "eight": "",
+            "nine": "",
+            "ten": ""
+        },
+        "competitor-analysis": {
+            "analysis-description": "",
+            "competitor-analysis-image": ""
+        },
+        "product-users": {
+            "user-one": "",
+            "user-two": "",
+            "user-three": "",
+            "user-four": "",
+            "user-five": "",
+            "user-six": "",
+            "user-seven": "",
+            "user-eight": "",
+            "user-nine": "",
+            "user-ten": ""
+        },
+        "user-needs": {
+            "user-needs-one": "",
+            "user-needs-two": "",
+            "user-needs-three": "",
+            "user-needs-four": "",
+            "user-needs-five": "",
+            "user-needs-six": "",
+            "user-needs-seven": "",
+            "user-needs-eight": "",
+            "user-needs-nine": "",
+            "user-needs-ten": ""
+        },
+        "design-process": {
+            "discover": "",
+            "define": "",
+            "ideate": "",
+            "design": ""
+        },
+        "brand-assets": {
+            "color-theme": "",
+            "typography": ""
+        },
+        "screens": {
+            "lofi-screen": "",
+            "lofi-screen-one": "",
+            "lofi-screen-two": "",
+            "lofi-screen-three": "",
+            "lofi-screen-four": "",
+            "gird-alignment": "",
+            "hifi-screen": "",
+            "hifi-screen-one": "",
+            "hifi-screen-two": "",
+            "hifi-screen-three": "",
+            "hifi-screen-four": ""
+        },
+        "conclusion": "",
+        "figma-prototype": ""
+    },
+    {
+        "article-id": 13,
+        "description": "",
+        "category": "",
+        "title": "",
+        "introduction": "",
+        "my-role": "",
+        "problem-statement": "",
+        "problem-solution": "",
+        "objectives-goals": "",
+        "business-challenges": {
+            "one": "",
+            "two": "",
+            "three": "",
+            "four": "",
+            "five": "",
+            "six": "",
+            "seven": "",
+            "eight": "",
+            "nine": "",
+            "ten": ""
+        },
+        "competitor-analysis": {
+            "analysis-description": "",
+            "competitor-analysis-image": ""
+        },
+        "product-users": {
+            "user-one": "",
+            "user-two": "",
+            "user-three": "",
+            "user-four": "",
+            "user-five": "",
+            "user-six": "",
+            "user-seven": "",
+            "user-eight": "",
+            "user-nine": "",
+            "user-ten": ""
+        },
+        "user-needs": {
+            "user-needs-one": "",
+            "user-needs-two": "",
+            "user-needs-three": "",
+            "user-needs-four": "",
+            "user-needs-five": "",
+            "user-needs-six": "",
+            "user-needs-seven": "",
+            "user-needs-eight": "",
+            "user-needs-nine": "",
+            "user-needs-ten": ""
+        },
+        "design-process": {
+            "discover": "",
+            "define": "",
+            "ideate": "",
+            "design": ""
+        },
+        "brand-assets": {
+            "color-theme": "",
+            "typography": ""
+        },
+        "screens": {
+            "lofi-screen": "",
+            "lofi-screen-one": "",
+            "lofi-screen-two": "",
+            "lofi-screen-three": "",
+            "lofi-screen-four": "",
+            "gird-alignment": "",
+            "hifi-screen": "",
+            "hifi-screen-one": "",
+            "hifi-screen-two": "",
+            "hifi-screen-three": "",
+            "hifi-screen-four": ""
+        },
+        "conclusion": "",
         "figma-prototype": ""
     }
 ]
