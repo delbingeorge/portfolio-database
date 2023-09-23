@@ -19,6 +19,7 @@
         ],
         "competitor-analysis": {
             "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
+            "competitors": [""],
             "competitor-analysis-image": ""
         },
         "product-users": ["Food Enthusiasts", "Locals", "Tourists", "Social Influencers and Vloggers"],
@@ -31,12 +32,7 @@
             "Easy Navigation and User-Friendly Interface",
             "Location-Based Information"
         ],
-        "design-process": {
-            "discover": "",
-            "define": "",
-            "ideate": "",
-            "design": ""
-        },
+        "design-process": ["assets/images/design-process/Discover.png", "assets/images/design-process/Define.png", "assets/images/design-process/Ideate.png", "assets/images/design-process/Design.png"],
         "brand-assets": {
             "color-theme": "",
             "typography": ""
