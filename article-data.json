@@ -20,7 +20,7 @@
         "competitor-analysis": {
             "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
             "competitors": [""],
-            "competitor-analysis-image": ""
+            "competitor-analysis-image": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesComparison.webp"
         },
         "product-users": ["Food Enthusiasts", "Locals", "Tourists", "Social Influencers and Vloggers"],
         "user-needs": [
@@ -32,7 +32,12 @@
             "Easy Navigation and User-Friendly Interface",
             "Location-Based Information"
         ],
-        "design-process": ["assets/images/design-process/Discover.png", "assets/images/design-process/Define.png", "assets/images/design-process/Ideate.png", "assets/images/design-process/Design.png"],
+        "design-process": [
+            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Discover.png",
+            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Define.png",
+            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Ideate.png",
+            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Design.png"
+        ],
         "brand-assets": {
             "color-theme": "",
             "typography": ""
