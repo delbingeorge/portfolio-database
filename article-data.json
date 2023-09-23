@@ -33,10 +33,10 @@
             "Location-Based Information"
         ],
         "design-process": [
-            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Discover.png",
-            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Define.png",
-            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Ideate.png",
-            "https://github.com/delbingeorge/portfolio-database/blob/json-data/assets/images/design-process/Design.png"
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Discover.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Define.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
         ],
         "brand-assets": {
             "color-theme": "",
