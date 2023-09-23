@@ -71,12 +71,11 @@
         "problem-solution": "We aim to address these challenges by developing Qikfixer, a user-friendly mobile application that serves as a seamless bridge between homeowners and skilled service professionals. Qikfixer will provide a centralized platform where users can easily discover, evaluate, and hire verified service providers for a wide range of household tasks and repairs.",
         "objectives-goals": "",
         "business-challenges": [
-            "Competition and Market Saturation",
-            "Diverse Cuisine and Preferences",
-            "Localized Content",
+            "Service Provider Recruitment",
+            "Trust and Safety",
+            "Geographic Expansion",
             "Feedback Handling",
-            "Restaurant Onboarding",
-            "Monetization Strategy"
+            "Economic Factors"
         ],
         "competitor-analysis": {
             "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
@@ -107,10 +106,10 @@
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe-two.webp"
         ],
         "hifi-screens": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/OnboardingAuthentication.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/ItemPageUserProfileScreen.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/RestaurantScreen.webp"
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/OnboardingAuthentication%20For%20Qikfix.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/User%20&%20Service%20Provide%20Communication%20Screens.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/User%20Profile%20&%20Management.webp"
         ],
-        "figma-prototype": "https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F16BLcE6iAwwlO1VinreRv2%2Featables%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D65-233%26viewport%3D2362%252C-178%252C0.54%26t%3DlTdXBwSvRIkHe7nz-1%26scaling%3Dscale-down%26starting-point-node-id%3D65%253A233%26mode%3Ddesign"
+        "figma-prototype": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAIcAOiynb7kh4LvcFHwCiq%2FQikfixer%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D11-5%26viewport%3D-2062%252C-449%252C0.46%26t%3D27Ah8tOvN9ztMVzb-1%26scaling%3Dscale-down%26starting-point-node-id%3D73%253A227%26mode%3Ddesign"
     }
 ]
