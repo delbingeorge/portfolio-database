@@ -15,40 +15,22 @@
             "Localized Content",
             "Feedback Handling",
             "Restaurant Onboarding",
-            "Monetization Strategy",
-            "",
-            "",
-            "",
-            ""
+            "Monetization Strategy"
         ],
         "competitor-analysis": {
             "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
             "competitor-analysis-image": ""
         },
-        "product-users": {
-            "user-one": "Food Enthusiasts",
-            "user-two": "Locals",
-            "user-three": "Tourists",
-            "user-four": "Social Influencers and Vloggers",
-            "user-five": "",
-            "user-six": "",
-            "user-seven": "",
-            "user-eight": "",
-            "user-nine": "",
-            "user-ten": ""
-        },
-        "user-needs": {
-            "user-needs-one": "Discovery of New Food Options",
-            "user-needs-two": "Reliable Reviews and Ratings",
-            "user-needs-three": "Personalized Recommendations",
-            "user-needs-four": "Must-Try Lists",
-            "user-needs-five": "Engaging and Visual Contents",
-            "user-needs-six": "Easy Navigation and User-Friendly Interface",
-            "user-needs-seven": "Location-Based Information",
-            "user-needs-eight": "",
-            "user-needs-nine": "",
-            "user-needs-ten": ""
-        },
+        "product-users": ["Food Enthusiasts", "Locals", "Tourists", "Social Influencers and Vloggers"],
+        "user-needs": [
+            "Discovery of New Food Options",
+            "Reliable Reviews and Ratings",
+            "Personalized Recommendations",
+            "Must-Try Lists",
+            "Engaging and Visual Contents",
+            "Easy Navigation and User-Friendly Interface",
+            "Location-Based Information"
+        ],
         "design-process": {
             "discover": "",
             "define": "",
@@ -59,172 +41,8 @@
             "color-theme": "",
             "typography": ""
         },
-        "screens": {
-            "lofi-screen": "",
-            "lofi-screen-one": "",
-            "lofi-screen-two": "",
-            "lofi-screen-three": "",
-            "lofi-screen-four": "",
-            "gird-alignment": "",
-            "hifi-screen": "",
-            "hifi-screen-one": "",
-            "hifi-screen-two": "",
-            "hifi-screen-three": "",
-            "hifi-screen-four": ""
-        },
+        "screens": ["", "", "", "", "", "", "", "", "", "", ""],
         "conculsion": "",
-        "figma-prototype": ""
-    },
-    {
-        "article-id": 14,
-        "description": "",
-        "category": "",
-        "title": "Qikfixer: Repairmen Finder App",
-        "introduction": "Qikfixer is a mobile application that empowers users to easily locate and hire skilled service men for a wide range of household tasks and repairs.",
-        "my-role": "My role was to create a seamless and user-friendly experience for both customers and service providers on the platform. I played a crucial role in shaping the visual identity and usability of the Qikfixer mobile application.",
-        "problem-statement": "Existing methods of finding and hiring skilled service professionals for household tasks are inefficient and lack reliability. Users struggle with time-consuming searches, uncertain quality, and safety concerns. Skilled professionals face difficulties in reaching potential clients. There's a clear need for a streamlined mobile application that connects users with trusted service providers, ensuring convenience, quality, and safety for both parties.",
-        "problem-solution": "We aim to address these challenges by developing Qikfixer, a user-friendly mobile application that serves as a seamless bridge between homeowners and skilled service professionals. Qikfixer will provide a centralized platform where users can easily discover, evaluate, and hire verified service providers for a wide range of household tasks and repairs.",
-        "objectives-goals": "",
-        "business-challenges": {
-            "one": "",
-            "two": "",
-            "three": "",
-            "four": "",
-            "five": "",
-            "six": "",
-            "seven": "",
-            "eight": "",
-            "nine": "",
-            "ten": ""
-        },
-        "competitor-analysis": {
-            "analysis-description": "",
-            "competitor-analysis-image": ""
-        },
-        "product-users": {
-            "user-one": "",
-            "user-two": "",
-            "user-three": "",
-            "user-four": "",
-            "user-five": "",
-            "user-six": "",
-            "user-seven": "",
-            "user-eight": "",
-            "user-nine": "",
-            "user-ten": ""
-        },
-        "user-needs": {
-            "user-needs-one": "",
-            "user-needs-two": "",
-            "user-needs-three": "",
-            "user-needs-four": "",
-            "user-needs-five": "",
-            "user-needs-six": "",
-            "user-needs-seven": "",
-            "user-needs-eight": "",
-            "user-needs-nine": "",
-            "user-needs-ten": ""
-        },
-        "design-process": {
-            "discover": "",
-            "define": "",
-            "ideate": "",
-            "design": ""
-        },
-        "brand-assets": {
-            "color-theme": "",
-            "typography": ""
-        },
-        "screens": {
-            "lofi-screen": "",
-            "lofi-screen-one": "",
-            "lofi-screen-two": "",
-            "lofi-screen-three": "",
-            "lofi-screen-four": "",
-            "gird-alignment": "",
-            "hifi-screen": "",
-            "hifi-screen-one": "",
-            "hifi-screen-two": "",
-            "hifi-screen-three": "",
-            "hifi-screen-four": ""
-        },
-        "conclusion": "",
-        "figma-prototype": ""
-    },
-    {
-        "article-id": 13,
-        "description": "",
-        "category": "",
-        "title": "",
-        "introduction": "",
-        "my-role": "",
-        "problem-statement": "",
-        "problem-solution": "",
-        "objectives-goals": "",
-        "business-challenges": {
-            "one": "",
-            "two": "",
-            "three": "",
-            "four": "",
-            "five": "",
-            "six": "",
-            "seven": "",
-            "eight": "",
-            "nine": "",
-            "ten": ""
-        },
-        "competitor-analysis": {
-            "analysis-description": "",
-            "competitor-analysis-image": ""
-        },
-        "product-users": {
-            "user-one": "",
-            "user-two": "",
-            "user-three": "",
-            "user-four": "",
-            "user-five": "",
-            "user-six": "",
-            "user-seven": "",
-            "user-eight": "",
-            "user-nine": "",
-            "user-ten": ""
-        },
-        "user-needs": {
-            "user-needs-one": "",
-            "user-needs-two": "",
-            "user-needs-three": "",
-            "user-needs-four": "",
-            "user-needs-five": "",
-            "user-needs-six": "",
-            "user-needs-seven": "",
-            "user-needs-eight": "",
-            "user-needs-nine": "",
-            "user-needs-ten": ""
-        },
-        "design-process": {
-            "discover": "",
-            "define": "",
-            "ideate": "",
-            "design": ""
-        },
-        "brand-assets": {
-            "color-theme": "",
-            "typography": ""
-        },
-        "screens": {
-            "lofi-screen": "",
-            "lofi-screen-one": "",
-            "lofi-screen-two": "",
-            "lofi-screen-three": "",
-            "lofi-screen-four": "",
-            "gird-alignment": "",
-            "hifi-screen": "",
-            "hifi-screen-one": "",
-            "hifi-screen-two": "",
-            "hifi-screen-three": "",
-            "hifi-screen-four": ""
-        },
-        "conclusion": "",
         "figma-prototype": ""
     }
 ]
