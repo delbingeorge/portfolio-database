@@ -76,6 +76,11 @@
             "Feedback Handling",
             "Economic Factors"
         ],
+        "competitor-analysis": {
+            "analysis-description": "",
+            "competitors": [""],
+            "competitor-analysis-image": ""
+        },
         "product-users": ["Home Owners", "Repairmen"],
         "user-needs": ["Find available Repairmen", "Trustworthiness", "Easy search & contacting"],
         "design-process": [
