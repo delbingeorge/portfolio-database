@@ -1,8 +1,7 @@
 [
     {
-        "article-id": 1,
-        "keywords": ["eatables", ""],
-        "description": "",
+        "article-id": 0,
+        "keywords": ["eatables"],
         "category": "case study",
         "title": "Eatables: Food Discovery & Review Platform",
         "introduction": "Eatables allows users to discover new food options and read reviews based on their location. Users can search for restaurants and other food establishments in their area, view information about each one, and read reviews from other users. They can also leave their own reviews and ratings. The app uses location data to provide relevant results and recommendations. Additionally, users can create a list of must-try items.",
@@ -59,7 +58,59 @@
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/ItemPageUserProfileScreen.webp",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/RestaurantScreen.webp"
         ],
-        "conculsion": "",
+        "figma-prototype": "https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F16BLcE6iAwwlO1VinreRv2%2Featables%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D65-233%26viewport%3D2362%252C-178%252C0.54%26t%3DlTdXBwSvRIkHe7nz-1%26scaling%3Dscale-down%26starting-point-node-id%3D65%253A233%26mode%3Ddesign"
+    },
+    {
+        "article-id": 1,
+        "keywords": ["qikfixer"],
+        "category": "case study",
+        "title": "Qikfixer: Repairmen Finder App",
+        "introduction": "Qikfixer is a mobile application that empowers users to easily locate and hire skilled service men for a wide range of household tasks and repairs.",
+        "my-role": "My role was to create a seamless and user-friendly experience for both customers and service providers on the platform. I played a crucial role in shaping the visual identity and usability of the Qikfixer mobile application.",
+        "problem-statement": "Existing methods of finding and hiring skilled service professionals for household tasks are inefficient and lack reliability. Users struggle with time-consuming searches, uncertain quality, and safety concerns. Skilled professionals face difficulties in reaching potential clients. There's a clear need for a streamlined mobile application that connects users with trusted service providers, ensuring convenience, quality, and safety for both parties.",
+        "problem-solution": "We aim to address these challenges by developing Qikfixer, a user-friendly mobile application that serves as a seamless bridge between homeowners and skilled service professionals. Qikfixer will provide a centralized platform where users can easily discover, evaluate, and hire verified service providers for a wide range of household tasks and repairs.",
+        "objectives-goals": "",
+        "business-challenges": [
+            "Competition and Market Saturation",
+            "Diverse Cuisine and Preferences",
+            "Localized Content",
+            "Feedback Handling",
+            "Restaurant Onboarding",
+            "Monetization Strategy"
+        ],
+        "competitor-analysis": {
+            "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
+            "competitors": [
+                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/eatables.png",
+                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/dineout.png",
+                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/googlemaps.png",
+                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/opentable.png",
+                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/tripadvisor.png"
+            ],
+            "competitor-analysis-image": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesComparison.webp"
+        },
+        "product-users": ["Home Owners", "Repairmen"],
+        "user-needs": ["Find available Repairmen", "Trustworthiness", "Easy search & contacting"],
+        "design-process": [
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Discover.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Define.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
+        ],
+        "brand-assets": {
+            "color-theme": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesColor.webp",
+            "typography": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesTypography.webp",
+            "alignment-grid": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/Alignment-Grid.webp"
+        },
+        "lofi-screens": [
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe-two.webp"
+        ],
+        "hifi-screens": [
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/OnboardingAuthentication.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/ItemPageUserProfileScreen.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/RestaurantScreen.webp"
+        ],
         "figma-prototype": "https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F16BLcE6iAwwlO1VinreRv2%2Featables%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D65-233%26viewport%3D2362%252C-178%252C0.54%26t%3DlTdXBwSvRIkHe7nz-1%26scaling%3Dscale-down%26starting-point-node-id%3D65%253A233%26mode%3Ddesign"
     }
 ]
