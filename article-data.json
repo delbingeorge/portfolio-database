@@ -111,7 +111,12 @@
         "competitor-analysis": "",
         "product-users": "",
         "user-needs": "",
-        "design-process": "",
+        "design-process": [
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Discover.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Define.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
+        ],
         "lofi-screens": "",
         "hifi-screens": "",
         "figma-prototype": ""
