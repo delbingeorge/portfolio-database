@@ -2,7 +2,10 @@
     {
         "article-id": 0,
         "keywords": ["eatables"],
-        "banner": "",
+        "banner-info": {
+            "link": "",
+            "banner": ""
+        },
         "category": "case study",
         "title": "Eatables: Food Discovery & Review Platform",
         "introduction": "Eatables allows users to discover new food options and read reviews based on their location. Users can search for restaurants and other food establishments in their area, view information about each one, and read reviews from other users. They can also leave their own reviews and ratings. The app uses location data to provide relevant results and recommendations. Additionally, users can create a list of must-try items.",
@@ -64,7 +67,10 @@
     {
         "article-id": 1,
         "keywords": ["qikfixer"],
-        "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-moodboard.webp",
+        "banner-info": {
+            "link": "qikfixer.vercel.app",
+            "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-moodboard.webp"
+        },
         "category": "case study",
         "title": "Qikfixer: Repairmen Finder App",
         "introduction": "Qikfixer is a mobile application that empowers users to easily locate and hire skilled service men for a wide range of household tasks and repairs.",
@@ -102,7 +108,10 @@
     {
         "article-id": 2,
         "keywords": ["extratime"],
-        "banner": "",
+        "banner-info": {
+            "link": "",
+            "banner": ""
+        },
         "category": "case study",
         "title": "Coming Soon!",
         "introduction": "",
