@@ -1,6 +1,11 @@
 [
     {
         "article-id": 0,
+        "article-details": {
+            "atuhor-img": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/author/DelbinGeorge.webp",
+            "author": "Delbin George",
+            "created-on": "15th March 2023"
+        },
         "keywords": ["eatables"],
         "banner-info": {
             "link": "#",
@@ -66,6 +71,11 @@
     },
     {
         "article-id": 1,
+        "article-details": {
+            "atuhor-img": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/author/DelbinGeorge.webp",
+            "author": "Delbin George",
+            "created-on": "15th March 2023"
+        },
         "keywords": ["qikfixer"],
         "banner-info": {
             "link": "qikfixer.vercel.app",
@@ -107,6 +117,11 @@
     },
     {
         "article-id": 2,
+        "article-details": {
+            "atuhor-img": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/author/DelbinGeorge.webp",
+            "author": "Delbin George",
+            "created-on": "15th March 2023"
+        },
         "keywords": ["extratime"],
         "banner-info": {
             "link": "",
