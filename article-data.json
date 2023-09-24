@@ -88,7 +88,11 @@
             "link": "https://www.qikfixer.vercel.app",
             "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-moodboard.webp"
         },
-        "storytelling": "",
+        "storytelling": [
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/story/story-one.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/story/story-two.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/story/story-three.webp"
+        ],
         "category": "case study",
         "title": "Qikfixer: Repairmen Finder App",
         "introduction": "Qikfixer is a mobile application that empowers users to easily locate and hire skilled service men for a wide range of household tasks and repairs.",
