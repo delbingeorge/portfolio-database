@@ -3,8 +3,8 @@
         "article-id": 0,
         "keywords": ["eatables"],
         "banner-info": {
-            "link": "",
-            "banner": ""
+            "link": "#",
+            "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables.webp"
         },
         "category": "case study",
         "title": "Eatables: Food Discovery & Review Platform",
