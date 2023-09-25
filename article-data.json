@@ -85,7 +85,7 @@
         },
         "keywords": ["qikfixer"],
         "banner-info": {
-            "link": "https://www.qikfixer.vercel.app",
+            "link": "https://qikfixer.vercel.app",
             "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-moodboard.webp"
         },
         "storytelling": [
@@ -116,6 +116,11 @@
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
         ],
+        "brand-assets": {
+            "color-theme": "",
+            "typography": "",
+            "alignment-grid": ""
+        },
         "lofi-screens": [
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-wireframe.webp",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-wireframe%20II.webp"
@@ -157,6 +162,11 @@
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
         ],
+        "brand-assets": {
+            "color-theme": "",
+            "typography": "",
+            "alignment-grid": ""
+        },
         "lofi-screens": "",
         "hifi-screens": "",
         "figma-prototype": ""
