@@ -60,11 +60,11 @@
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
         ],
-        "brand-assets": {
-            "color-theme": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesColor.webp",
-            "typography": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesTypography.webp",
-            "alignment-grid": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/Alignment-Grid.webp"
-        },
+        "brand-assets": [
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesColor.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesTypography.webp",
+            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/Alignment-Grid.webp"
+        ],
         "lofi-screens": [
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe.webp",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe-two.webp"
