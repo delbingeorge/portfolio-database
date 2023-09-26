@@ -62,6 +62,7 @@
         ],
         "brand-assets": {
             "color-theme": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesColor.webp",
+            "logo": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/logo.png",
             "typography": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesTypography.webp",
             "alignment-grid": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/Alignment-Grid.webp"
         },
