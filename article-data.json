@@ -2,21 +2,21 @@
     {
         "article-id": 0,
         "article-details": {
-            "atuhor-img": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/author/DelbinGeorge.webp",
+            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "15th March 2023"
         },
         "keywords": ["eatables"],
         "banner-info": {
             "link": "#",
-            "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables.webp"
+            "banner": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/eatables.webp"
         },
         "storytelling": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-one.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-two.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-three.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-four.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-five.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-one.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-two.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-three.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-four.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-five.webp"
         ],
         "category": "",
         "title": "Eatables: Food Discovery & Review Platform",
@@ -36,13 +36,13 @@
         "competitor-analysis": {
             "analysis-description": "Our application is a platform for discovering and reviewing food. Similar platforms already exist in the market, like OpenTable, Dineout, Google Maps, and TripAdvisor.",
             "competitors": [
-                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/eatables.png",
-                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/dineout.png",
-                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/googlemaps.png",
-                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/opentable.png",
-                "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/competitors/tripadvisor.png"
+                "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/competitors/eatables.png",
+                "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/competitors/dineout.png",
+                "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/competitors/googlemaps.png",
+                "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/competitors/opentable.png",
+                "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/competitors/tripadvisor.png"
             ],
-            "competitor-analysis-image": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesComparison.webp"
+            "competitor-analysis-image": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/EatablesComparison.webp"
         },
         "product-users": ["Food Enthusiasts", "Locals", "Tourists", "Social Influencers and Vloggers"],
         "user-needs": [
@@ -55,25 +55,25 @@
             "Location-Based Information"
         ],
         "design-process": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Discover.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Define.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
         ],
         "brand-assets": {
-            "color-theme": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesColor.webp",
-            "logo": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/logo.png",
-            "typography": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/EatablesTypography.webp",
-            "alignment-grid": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/Alignment-Grid.webp"
+            "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/EatablesColor.webp",
+            "logo": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/logo.png",
+            "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/EatablesTypography.webp",
+            "alignment-grid": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/Alignment-Grid.webp"
         },
         "lofi-screens": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/eatables-wireframe-two.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/eatables-wireframe.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/eatables-wireframe-two.webp"
         ],
         "hifi-screens": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/OnboardingAuthentication.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/ItemPageUserProfileScreen.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/RestaurantScreen.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/OnboardingAuthentication.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/ItemPageUserProfileScreen.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/RestaurantScreen.webp"
         ],
         "figma-prototype": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F16BLcE6iAwwlO1VinreRv2%2Featables%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D65-233%26viewport%3D569%252C346%252C0.03%26t%3DrX2zxLr12wdkma1G-1%26scaling%3Dscale-down%26starting-point-node-id%3D65%253A233%26mode%3Ddesign",
         "conclusion": "Eatables represents a groundbreaking solution to the common problem of finding new and enticing dining options. By seamlessly blending personalized recommendations, reliable reviews, and location-based information, Eatables empowers users to explore their culinary world with confidence. This food discovery and review platform not only enhances the dining experience but also caters to a diverse range of users, from food enthusiasts to influencers."
@@ -81,19 +81,19 @@
     {
         "article-id": 1,
         "article-details": {
-            "atuhor-img": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/author/DelbinGeorge.webp",
+            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "15th March 2023"
         },
         "keywords": ["qikfixer"],
         "banner-info": {
             "link": "https://qikfixer.vercel.app",
-            "banner": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-moodboard.webp"
+            "banner": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/qikfix-moodboard.webp"
         },
         "storytelling": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/story/story-one.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/story/story-two.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/story/story-three.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/story/story-one.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/story/story-two.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/story/story-three.webp"
         ],
         "category": "case study",
         "title": "Qikfixer: Repairmen Finder App",
@@ -113,25 +113,25 @@
         "product-users": ["Home Owners", "Repairmen"],
         "user-needs": ["Find available Repairmen", "Trustworthiness", "Easy search & contacting"],
         "design-process": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Discover.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Define.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
         ],
         "brand-assets": {
             "color-theme": "",
-            "logo": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/Logo.png",
+            "logo": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/Logo.png",
             "typography": "",
             "alignment-grid": ""
         },
         "lofi-screens": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-wireframe.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/qikfix-wireframe%20II.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/qikfix-wireframe.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/qikfix-wireframe%20II.webp"
         ],
         "hifi-screens": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/OnboardingAuthentication%20For%20Qikfix.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/User%20&%20Service%20Provide%20Communication%20Screens.webp",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/User%20Profile%20&%20Management.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/OnboardingAuthentication%20For%20Qikfix.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/User%20&%20Service%20Provide%20Communication%20Screens.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/User%20Profile%20&%20Management.webp"
         ],
         "figma-prototype": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAIcAOiynb7kh4LvcFHwCiq%2FQikfixer%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D11-5%26viewport%3D-2062%252C-449%252C0.46%26t%3D27Ah8tOvN9ztMVzb-1%26scaling%3Dscale-down%26starting-point-node-id%3D73%253A227%26mode%3Ddesign",
         "conclusion": ""
@@ -139,7 +139,7 @@
     {
         "article-id": 2,
         "article-details": {
-            "atuhor-img": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/author/DelbinGeorge.webp",
+            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "15th March 2023"
         },
@@ -161,10 +161,10 @@
         "product-users": "",
         "user-needs": "",
         "design-process": [
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Discover.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Define.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Ideate.png",
-            "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
         ],
         "brand-assets": {
             "color-theme": "",
