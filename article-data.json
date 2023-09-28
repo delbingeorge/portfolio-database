@@ -20,11 +20,11 @@
         ],
         "category": "",
         "title": "Eatables: Food Discovery & Review Platform",
-        "introduction": "Eatables allows users to discover new food options and read reviews based on their location. Users can search for restaurants and other food establishments in their area, view information about each one, and read reviews from other users. They can also leave their own reviews and ratings. The app uses location data to provide relevant results and recommendations. Additionally, users can create a list of must-try items.",
+        "introduction": "Eatables allows users to discover new food options and read reviews based on their location. Users can search for restaurants and other food establishments in their area, view information about each one, and read reviews from other users. They can also leave their own reviews and ratings. The app uses location data to provide relevant results and recommendations. Additionally, users can create a list of must-try items and can also view/post short food vlogs named as 'drops'.",
         "my-role": "Our team consisted of three members, with me spearheading the entire design, user testing process of the project. I collaborated with Ashwin KV and Darshan Dinesh MP, who specialized in the backend aspects of the project.",
-        "problem-statement": "Users often struggle to discover new and appealing dining options in their local area, and the lack of reliable, location-based reviews makes it difficult to make informed decisions about where to eat.",
+        "problem-statement": "Users often struggle to discover new and appealing dining options in places they visit, and the lack of reliable, location-based reviews makes it difficult to make informed decisions about where and what to eat.",
         "problem-solution": "Eatables, a location-based food discovery and review app, offers a solution by providing users with personalized restaurant recommendations, detailed information about nearby eateries, and authentic user reviews. By leveraging location data and user-generated content, Eatables empowers users to confidently explore new food establishments and make informed dining choices, enhancing their overall culinary experiences.",
-        "objectives-goals": "The goal of Eatables is to revolutionize the way people discover and explore food options by providing a user- friendly platform that offers personalized restaurant recommendations and many other features such as review posting, creating a must try list etc.",
+        "objectives-goals": "The goal of Eatables is to revolutionize the way people discover and explore food options by providing a user- friendly platform that offers personalized restaurant recommendations and many other features such as content creation, review posting, creating a must try list etc.",
         "business-challenges": [
             "Competition and Market Saturation",
             "Diverse Cuisine and Preferences",
@@ -101,7 +101,7 @@
         "my-role": "My role was to create a seamless and user-friendly experience for both customers and service providers on the platform. I played a crucial role in shaping the visual identity and usability of the Qikfixer mobile application.",
         "problem-statement": "Existing methods of finding and hiring skilled service professionals for household tasks are inefficient and lack reliability. Users struggle with time-consuming searches, uncertain quality, and safety concerns. Skilled professionals face difficulties in reaching potential clients. There's a clear need for a streamlined mobile application that connects users with trusted service providers, ensuring convenience, quality, and safety for both parties.",
         "problem-solution": "We aim to address these challenges by developing Qikfixer, a user-friendly mobile application that serves as a seamless bridge between homeowners and skilled service professionals. Qikfixer will provide a centralized platform where users can easily discover, evaluate, and hire verified service providers for a wide range of household tasks and repairs.",
-        "objectives-goals": "",
+        "objectives-goals": "The main goal of the Qikfixer app is to make it easy for skilled service providers, like repairmen, to find local job opportunities. It also helps people who need help to easily find these service providers.",
         "business-challenges": [
             "Service Provider Recruitment",
             "Trust and Safety",
@@ -119,9 +119,9 @@
             "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
         ],
         "brand-assets": {
-            "color-theme": "",
+            "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/Color.webp",
             "logo": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/Logo.png",
-            "typography": "",
+            "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/QikfixerTypography.webp",
             "alignment-grid": ""
         },
         "lofi-screens": [
