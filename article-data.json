@@ -18,7 +18,7 @@
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-four.webp",
             "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/eatables/story/story-five.webp"
         ],
-        "category": "case study",
+        "category": "",
         "title": "Eatables: Food Discovery & Review Platform",
         "introduction": "Eatables allows users to discover new food options and read reviews based on their location. Users can search for restaurants and other food establishments in their area, view information about each one, and read reviews from other users. They can also leave their own reviews and ratings. The app uses location data to provide relevant results and recommendations. Additionally, users can create a list of must-try items.",
         "my-role": "Our team consisted of three members, with me spearheading the entire design, user testing process of the project. I collaborated with Ashwin KV and Darshan Dinesh MP, who specialized in the backend aspects of the project.",
