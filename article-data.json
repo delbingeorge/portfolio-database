@@ -120,6 +120,7 @@
         ],
         "brand-assets": {
             "color-theme": "",
+            "logo": "https://raw.githubusercontent.com/delbingeorge/portfolio-database/json-data/assets/images/qikfixer/Logo.png",
             "typography": "",
             "alignment-grid": ""
         },
@@ -167,6 +168,7 @@
         ],
         "brand-assets": {
             "color-theme": "",
+            "logo": "",
             "typography": "",
             "alignment-grid": ""
         },
