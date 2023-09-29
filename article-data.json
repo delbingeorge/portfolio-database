@@ -208,7 +208,7 @@
         "design-process": [],
         "brand-assets": {
             "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/color.png",
-            "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/Typography.png"
+            "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/Typography.png"
         },
         "lofi-screens": [],
         "hifi-screens": ["https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png"],
