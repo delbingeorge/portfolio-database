@@ -206,12 +206,7 @@
         "product-users": ["College/School Students", "Locals", "Tourists", "Occasional Travelers"],
         "user-needs": ["Easy Access to Bus Timings"],
         "design-process": [],
-        "brand-assets": {
-            "color-theme": "",
-            "logo": "",
-            "typography": "",
-            "alignment-grid": ""
-        },
+        "brand-assets": {},
         "lofi-screens": [],
         "hifi-screens": ["https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png"],
         "figma-prototype": "",
