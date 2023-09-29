@@ -196,15 +196,15 @@
         "my-role": "",
         "problem-statement": "When my friend and I were in college in Mangalore, and coming from Kerala, we faced a big problem. We couldn't read or speak Kannada, and this made it really hard to find bus timings. That's when an idea popped into our heads.",
         "problem-solution": "We decided to create a user-friendly mobile app that provides bus timings, to make it easier for students and tourists like us to navigate the city's public transportation system.",
-        "objectives-goals": "",
+        "objectives-goals": "Make it easy for people to find bus timings without needing to sign up or log in. Some notable goals of this app are:- Allow anyone to use the app without creating an account. Provide quick access to bus timings for a hassle-free experience.",
         "business-challenges": [],
         "competitor-analysis": {
             "analysis-description": "",
             "competitors": [],
             "competitor-analysis-image": ""
         },
-        "product-users": [],
-        "user-needs": [],
+        "product-users": ["College/School Students", "Locals", "Tourists", "Occasional Travelers"],
+        "user-needs": ["Easy Access to Bus Timings"],
         "design-process": [],
         "brand-assets": {
             "color-theme": "",
@@ -215,6 +215,6 @@
         "lofi-screens": [],
         "hifi-screens": ["https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png"],
         "figma-prototype": "",
-        "conclusion": "The proposed system of 'BusWatch' does not require user login or sign up. All the user wants is just open the app and enter source and destination. The system automatically picks up current date and time and thus showing results for the search."
+        "conclusion": "The proposed system, 'BusWatch,' does not require user login or sign up. All the user needs to do is open the app, enter their source and destination, and the system automatically retrieves the current date and time, thereby displaying search results."
     }
 ]
