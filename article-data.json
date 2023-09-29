@@ -213,7 +213,7 @@
             "alignment-grid": ""
         },
         "lofi-screens": [],
-        "hifi-screens": [],
+        "hifi-screens": ["https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png"],
         "figma-prototype": "",
         "conclusion": ""
     }
