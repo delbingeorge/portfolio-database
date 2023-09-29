@@ -176,5 +176,51 @@
         "hifi-screens": "",
         "figma-prototype": "",
         "conclusion": ""
+    },
+    {
+        "article-id": 3,
+        "article-details": {
+            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
+            "author": "Delbin George",
+            "created-on": "30th September 2023"
+        },
+        "keywords": ["bus watch"],
+        "banner-info": {
+            "link": "#",
+            "banner": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/buswatch.png"
+        },
+        "storytelling": [
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-one.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-two.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-three.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-four.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-five.webp"
+        ],
+        "category": "",
+        "title": "BusWatch App",
+        "introduction": "",
+        "my-role": "",
+        "problem-statement": "",
+        "problem-solution": "",
+        "objectives-goals": "",
+        "business-challenges": ["", "", "", "", "", "y"],
+        "competitor-analysis": {
+            "analysis-description": ".",
+            "competitors": ["", "", "", "", ""],
+            "competitor-analysis-image": ""
+        },
+        "product-users": [""],
+        "user-needs": ["", "", "", "", "", "", ""],
+        "design-process": ["", "", "", ""],
+        "brand-assets": {
+            "color-theme": "",
+            "logo": "",
+            "typography": "",
+            "alignment-grid": ""
+        },
+        "lofi-screens": ["", ""],
+        "hifi-screens": ["", "", ""],
+        "figma-prototype": "",
+        "conclusion": ""
     }
 ]
