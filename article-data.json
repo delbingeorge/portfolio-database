@@ -189,13 +189,7 @@
             "link": "#",
             "banner": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/buswatch.png"
         },
-        "storytelling": [
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-one.webp",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-two.webp",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-three.webp",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-four.webp",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/story/story-five.webp"
-        ],
+        "storytelling": [],
         "category": "",
         "title": "BusWatch App",
         "introduction": "In big cities, lots of people use buses to get around. Knowing when the next bus will arrive is super important. This case study is all about making 'BusWatch'. An app that tells you when your bus is coming based on where you want to go.",
@@ -203,23 +197,23 @@
         "problem-statement": "When my friend and I were in college in Mangalore, and coming from Kerala, we faced a big problem. We couldn't read or speak Kannada, and this made it really hard to find bus timings. That's when an idea popped into our heads.",
         "problem-solution": "We decided to create a user-friendly mobile app that provides bus timings, to make it easier for students and tourists like us to navigate the city's public transportation system.",
         "objectives-goals": "",
-        "business-challenges": ["", "", "", "", "", ""],
+        "business-challenges": [],
         "competitor-analysis": {
             "analysis-description": "",
-            "competitors": ["", "", "", "", ""],
+            "competitors": [],
             "competitor-analysis-image": ""
         },
-        "product-users": [""],
-        "user-needs": ["", "", "", "", "", "", ""],
-        "design-process": ["", "", "", ""],
+        "product-users": [],
+        "user-needs": [],
+        "design-process": [],
         "brand-assets": {
             "color-theme": "",
             "logo": "",
             "typography": "",
             "alignment-grid": ""
         },
-        "lofi-screens": ["", ""],
-        "hifi-screens": ["", "", ""],
+        "lofi-screens": [],
+        "hifi-screens": [],
         "figma-prototype": "",
         "conclusion": ""
     }
