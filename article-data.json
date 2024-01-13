@@ -2,7 +2,7 @@
     {
         "article-id": 0,
         "article-details": {
-            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
+            "author-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "15th March 2023"
         },
@@ -81,7 +81,7 @@
     {
         "article-id": 1,
         "article-details": {
-            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
+            "author-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "15th March 2023"
         },
@@ -139,7 +139,7 @@
     {
         "article-id": 2,
         "article-details": {
-            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
+            "author-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "15th March 2023"
         },
@@ -180,7 +180,7 @@
     {
         "article-id": 3,
         "article-details": {
-            "atuhor-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
+            "author-img": "https://delbingeorge.github.io/portfolio-database/assets/images/author/DelbinGeorge.webp",
             "author": "Delbin George",
             "created-on": "30th September 2023"
         },
@@ -205,9 +205,15 @@
         },
         "product-users": ["College/School Students", "Locals", "Tourists", "Occasional Travelers"],
         "user-needs": ["Easy Access to Bus Timings"],
-        "design-process": [],
+        "design-process": [
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
+        ],
         "brand-assets": {
             "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/color.png",
+            "logo": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/logo.png",
             "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/Typography.png"
         },
         "lofi-screens": [],
@@ -216,7 +222,7 @@
             "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens-one.png",
             "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens-two.png"
         ],
-        "figma-prototype": "",
+        "figma-prototype": "https://www.figma.com/proto/mHXc6C72xMVwXb1rcSEhro/BusWatch?page-id=0%3A1&type=design&node-id=3-29&viewport=489%2C287%2C0.53&t=ByOFOavR62sqPmSZ-1&scaling=scale-down&starting-point-node-id=1%3A317&mode=design",
         "conclusion": "The proposed system, 'BusWatch,' does not require user login or sign up. All the user needs to do is open the app, enter their source and destination, and the system automatically retrieves the current date and time, thereby displaying search results."
     }
 ]
