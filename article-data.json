@@ -211,8 +211,11 @@
             "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/Typography.png"
         },
         "lofi-screens": [],
-        "hifi-screens": ["https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png",
-        "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png"],
+        "hifi-screens": [
+            "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens-one.png",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens-two.png"
+        ],
         "figma-prototype": "",
         "conclusion": "The proposed system, 'BusWatch,' does not require user login or sign up. All the user needs to do is open the app, enter their source and destination, and the system automatically retrieves the current date and time, thereby displaying search results."
     }
