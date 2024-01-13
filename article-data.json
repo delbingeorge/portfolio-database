@@ -55,10 +55,7 @@
             "Location-Based Information"
         ],
         "design-process": [
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/design-process.png"
         ],
         "brand-assets": {
             "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/EatablesColor.webp",
@@ -113,10 +110,7 @@
         "product-users": ["Home Owners", "Repairmen"],
         "user-needs": ["Find available Repairmen", "Trustworthiness", "Easy search & contacting"],
         "design-process": [
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/design-process.png"
         ],
         "brand-assets": {
             "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/qikfixer/Color.png",
@@ -161,10 +155,7 @@
         "product-users": "",
         "user-needs": "",
         "design-process": [
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/design-process.png"
         ],
         "brand-assets": {
             "color-theme": "",
@@ -206,14 +197,11 @@
         "product-users": ["College/School Students", "Locals", "Tourists", "Occasional Travelers"],
         "user-needs": ["Easy Access to Bus Timings"],
         "design-process": [
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Discover.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Define.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Ideate.png",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/Design.png"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/design-process/design-process.png"
         ],
         "brand-assets": {
             "color-theme": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/color.png",
-            "logo": "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/logo.png",
+            "logo": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/logo.png",
             "typography": "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/Typography.png"
         },
         "lofi-screens": [],
