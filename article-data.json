@@ -68,9 +68,11 @@
             "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/eatables-wireframe-two.webp"
         ],
         "hifi-screens": [
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/OnboardingAuthentication.webp",
-            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/ItemPageUserProfileScreen.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/Authentication.webp",
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/Onboarding.webp",
             "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/RestaurantScreen.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/UserProfile.webp"
+            "https://delbingeorge.github.io/portfolio-database/assets/images/eatables/AccountRecovery.webp"
         ],
         "figma-prototype": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F16BLcE6iAwwlO1VinreRv2%2Featables%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D65-233%26viewport%3D569%252C346%252C0.03%26t%3DrX2zxLr12wdkma1G-1%26scaling%3Dscale-down%26starting-point-node-id%3D65%253A233%26mode%3Ddesign",
         "conclusion": "Eatables represents a groundbreaking solution to the common problem of finding new and enticing dining options. By seamlessly blending personalized recommendations, reliable reviews, and location-based information, Eatables empowers users to explore their culinary world with confidence. This food discovery and review platform not only enhances the dining experience but also caters to a diverse range of users, from food enthusiasts to influencers."
@@ -210,7 +212,7 @@
             "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens-one.png",
             "https://delbingeorge.github.io/portfolio-database/assets/images/buswatch/allscreens-two.png"
         ],
-        "figma-prototype": "https://www.figma.com/proto/mHXc6C72xMVwXb1rcSEhro/BusWatch?page-id=0%3A1&type=design&node-id=3-29&viewport=489%2C287%2C0.53&t=ByOFOavR62sqPmSZ-1&scaling=scale-down&starting-point-node-id=1%3A317&mode=design",
+        "figma-prototype": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmHXc6C72xMVwXb1rcSEhro%2FBusWatch%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D3-29%26viewport%3D489%252C287%252C0.53%26t%3DByOFOavR62sqPmSZ-1%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A317%26mode%3Ddesign",
         "conclusion": "The proposed system, 'BusWatch,' does not require user login or sign up. All the user needs to do is open the app, enter their source and destination, and the system automatically retrieves the current date and time, thereby displaying search results."
     }
 ]
